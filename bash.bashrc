@@ -1,3 +1,4 @@
+clear
 cd
 cd cloud
 

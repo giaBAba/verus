@@ -1,4 +1,5 @@
 clear
+sshd
 cd
 cd cloud
 

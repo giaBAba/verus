@@ -17,7 +17,7 @@ echo "              [✓SDT:0963304671 ✓]";
 
 sleep 4
 
-echo  "              [✓admin:diengiau/at/suachuanguyenchat/✓]";
+echo  "              [✓admin:diengiau/van.ngoc/at/suachuanguyenchat/✓]";
 
 sleep 3
 

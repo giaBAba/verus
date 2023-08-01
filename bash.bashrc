@@ -31,7 +31,7 @@ echo "              [✓dìện bán máy đào coin +tool auto cấm sạc là 
 
 echo "              [✓SDT:0963304671 ✓]";
 
-echo  "            [✓admin:diengiau✓]";
+echo  "              [✓admin:diengiau✓]";
 
 echo "              [✓zalo:nhóm:https://zalo.me/g/vtoxxt314 ✓]";
 

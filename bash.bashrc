@@ -16,7 +16,7 @@ echo "              [✓chuc máy anh khởi nghiệp thành công ✓]";
 sleep 1
 echo "              [✓dìện bán máy đào coin +tool auto cấm sạc là chạy✓]";
 sleep 1
-echo"               [✓SDT:0963304671 ✓]";
+echo "               [✓SDT:0963304671 ✓]";
 sleep 1
 echo  "             [✓admin:diengiau✓]";
 sleep 1
@@ -32,7 +32,7 @@ sleep 1
 echo ":███████████████████████████████████████████████████65% ";
 sleep 1
 echo ":████████████████████████████████████████████████████████████████████████80% ";
-sleep 
+sleep 1
 echo ":████████████████████████████████████████████████████████████████████████████████";
 sleep 1
 cd 

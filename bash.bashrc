@@ -15,6 +15,10 @@ _  /_/ /___  /_/ /_  / / /_/ // /_/ /     / /___  / /_/ / /_/ / /  __/
           /____/    County :HCM.CTY                update :2.0                                  
                                                 
 "; 
+sleep 1
+clear 
+done
+
 sleep 2
 echo "              [✓chuc máy anh khởi nghiệp thành công ✓]";
 sleep 1

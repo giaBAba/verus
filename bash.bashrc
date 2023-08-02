@@ -28,7 +28,7 @@ for i in $(seq 7)
 do
 echo -e "\e[1;3"$i"m  \e[1m"
 
-echo "      ===     😎[✓chuc máy anh khởi nghiệp thành công ✓]🤑                ===";
+echo "      ===     😎[✓chuc các anh khởi nghiệp thành công ✓]🤑                ===";
 
 echo "      ===     😎[✓dìện bán máy đào coin +tool auto cấm sạc là chạy✓]🤑    ===";
 

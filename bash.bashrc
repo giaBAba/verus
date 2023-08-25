@@ -104,6 +104,4 @@ cd
 
 sshd
 
-dumpsys battery set level 999999
-
 ./start-ubuntu.sh
